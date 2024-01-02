@@ -26,7 +26,23 @@ Check out these cool PyCharm plugins that enhance the IDE experience:
 ### Code Zoom 🕶️
 Get closer to your code with these simple steps:
 
-...
+1. Navigate to `File > Settings` (or `PyCharm > Preferences` on macOS).
+2. In the `General` section, locate `Mouse Control`.
+3. Activate code zoom using your mouse wheel.
+
+### Solarized Theme ☀️
+Transform your PyCharm interface with the Solarized Theme:
+
+1. Open `File > Settings` (or `PyCharm > Preferences` on macOS).
+2. Under `Appearance & Behavior`, select `Appearance`.
+3. Choose the `Solarized Dark` theme from the available options.
+
+### Green Console Output 🌿
+Give your console output a refreshing green touch:
+
+1. Access `File > Settings` (or `PyCharm > Preferences` on macOS).
+2. In the `Editor` section, find `Color Scheme`.
+3. Customize the `Console Colors` settings to make standard and system outputs appear in green.
 
 ### Expected Result 👀
 
